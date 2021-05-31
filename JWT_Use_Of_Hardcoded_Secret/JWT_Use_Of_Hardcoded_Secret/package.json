@@ -1,0 +1,9 @@
+{
+  "name": "jwt_use_of_hardcoded_secret",
+  "version": "0.0.0",
+  "description": "JWT_Use_Of_Hardcoded_Secret",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "jwt_lack_of_expiration_time",
+  "version": "0.0.0",
+  "description": "JWT_Lack_Of_Expiration_Time",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}

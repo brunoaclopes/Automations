@@ -1,0 +1,9 @@
+{
+  "name": "parameter_tampering",
+  "version": "0.0.0",
+  "description": "Parameter_Tampering",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

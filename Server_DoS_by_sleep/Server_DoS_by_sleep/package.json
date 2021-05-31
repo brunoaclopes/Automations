@@ -1,0 +1,9 @@
+{
+  "name": "server_do-s_by_sleep",
+  "version": "0.0.0",
+  "description": "Server_DoS_by_sleep",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

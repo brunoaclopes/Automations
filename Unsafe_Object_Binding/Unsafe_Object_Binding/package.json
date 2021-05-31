@@ -1,0 +1,9 @@
+{
+  "name": "unsafe_object_binding",
+  "version": "0.0.0",
+  "description": "Unsafe_Object_Binding",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

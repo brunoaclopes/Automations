@@ -1,0 +1,14 @@
+{
+  "name": "second_order_sql_injection",
+  "version": "0.0.0",
+  "description": "Second_Order_SQL_Injection",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "msnodesqlv8": "^2.1.0",
+    "mssql": "^7.1.0",
+    "tedious": "^11.0.8"
+  }
+}

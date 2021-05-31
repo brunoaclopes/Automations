@@ -1,0 +1,12 @@
+{
+  "name": "second_order_sql_injection-2",
+  "version": "0.0.0",
+  "description": "Second_Order_SQL_Injection-2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mssql": "^7.1.0"
+  }
+}

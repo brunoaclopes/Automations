@@ -1,0 +1,9 @@
+{
+  "name": "jwt_sensitive_information_exposure",
+  "version": "0.0.0",
+  "description": "JWT_Sensitive_Information_Exposure",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
